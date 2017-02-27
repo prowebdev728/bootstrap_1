@@ -1,8 +1,8 @@
 # bootstrap_1
 
-Implement pixel perfect design with responsive UI for mobile, tablet and desktop. bootstrap v3 (LESS)
+Implement pixel perfect design with responsive UI for mobile, tablet and desktop.
 
-using skills: HTML5/CSS3, JavaScript, jQuery, Bootstrap v3(LESS), Gulp
+using skills: HTML5/CSS3, JavaScript, jQuery, Bootstrap v3(LESS) & v4(Sass), Gulp
 
 Gulp Usage
 
