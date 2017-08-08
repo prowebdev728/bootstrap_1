@@ -1,10 +1,13 @@
-# bootstrap_1
+# PSD to HTML/CSS
 
-Implement pixel perfect design with responsive UI for mobile, tablet and desktop layouts.
+Implement pixel-perfect design with responsive UI for mobile, tablet and desktop layouts.
 
-using skills: HTML5/CSS3, JavaScript, jQuery, Bootstrap v3(LESS) & v4(Sass), Gulp
-
-Gulp Usage
+HTML5/CSS3
+JavaScript, jQuery
+Bootstrap 3
+LESS
+Gulp
+Bower
 
 1. Install node-v6.9.1-x64.msi
 2. Open Command Prompt and type "npm install -g gulp"
